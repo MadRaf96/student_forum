@@ -1,0 +1,15 @@
+current directory: /home/rafal/RUBY_APP/student_forum/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+/home/rafal/.rvm/rubies/ruby-2.6.0/bin/ruby -I /home/rafal/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0 -r ./siteconf20190207-13418-cth8lx.rb extconf.rb
+creating Makefile
+
+current directory: /home/rafal/RUBY_APP/student_forum/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/rafal/RUBY_APP/student_forum/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/rafal/RUBY_APP/student_forum/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20190207-13418-1kz29w7
